@@ -77,20 +77,10 @@ a{
     color: #4169e1;
 }
 
-section{
-    margin: 0px -20px 30px -20px;
-    padding: 20px;
-    position: relative;
-    width: 90%;
-    width: 50vw;
-}
+.container {
+    width: 500px;
+  }
 
-section{
-    min-width: 300px;
-    max-width: 800px;
-  padding: 20px;
-  
-  width: 90vw;
-}
-
-
+  .container > video {
+    width: 100%;
+  }
