@@ -78,9 +78,9 @@ a{
 }
 
 .container {
-    width: 600px;
+    width: 800px;
   }
 
   .container > video {
-    width: 90%;
+    width: 95%;
   }
